@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f902fe3f.css",
+    "main.js": "./static/js/main.abd1a852.js",
+    "static/media/drPortfolio.png": "./static/media/drPortfolio.27dac8240ed4dba46ca2.png",
+    "static/media/pizzaShop.png": "./static/media/pizzaShop.ae5cbe19b816d2b51dac.png",
+    "static/media/desertTour.png": "./static/media/desertTour.8864f91c45a7e7988c35.png",
+    "static/media/me-about.jpg": "./static/media/me-about.5d025e7a71e53287b05a.jpg",
+    "static/media/me.png": "./static/media/me.76f86ecdcf43c5d9d478.png",
+    "static/media/Coursera_React_Advance.png": "./static/media/Coursera_React_Advance.46e91cafa898cd41062a.png",
+    "static/media/Coursera_React_Basic.png": "./static/media/Coursera_React_Basic.2df7a8d9f59f07c1e9be.png",
+    "static/media/portfolio_map_chart.png": "./static/media/portfolio_map_chart.8b0466403b60f3d6e652.png",
+    "static/media/portfolio_dashboard_main.png": "./static/media/portfolio_dashboard_main.ad4ec99222bbb6cd6490.png",
+    "static/media/portfolio_list.png": "./static/media/portfolio_list.dc647f7d4b07371e3fe2.png",
+    "static/media/portfolio_calender.png": "./static/media/portfolio_calender.dee4716b8ae88c22187f.png",
+    "static/media/audio_shop.png": "./static/media/audio_shop.978517a75cb1c46fadcc.png",
+    "static/media/cv.pdf": "./static/media/cv.0193b728784a3a9b0ede.pdf",
+    "static/media/portfolio_form.png": "./static/media/portfolio_form.fd09c656848f9340a5c9.png",
+    "static/media/daneshjooyar.png": "./static/media/daneshjooyar.ad470172ad9a0222564e.png",
+    "static/media/portfolio_line_chart.png": "./static/media/portfolio_line_chart.860d7567d291b664aa7d.png",
+    "static/media/portfolio_pete.png": "./static/media/portfolio_pete.c88436732c53d14b524e.png",
+    "static/media/reactapp.png": "./static/media/reactapp.c61aa14510559f2afc94.png",
+    "index.html": "./index.html",
+    "main.f902fe3f.css.map": "./static/css/main.f902fe3f.css.map",
+    "main.abd1a852.js.map": "./static/js/main.abd1a852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f902fe3f.css",
+    "static/js/main.abd1a852.js"
+  ]
+}
